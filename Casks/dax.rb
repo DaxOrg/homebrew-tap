@@ -1,6 +1,6 @@
 cask "dax" do
-  version "3.7.0"
-  sha256 "1ddaf0f854db4891312f222062513162c65fde8333308cae4f507e3a7990e0ef"
+  version "3.8.0"
+  sha256 "401efd79fb6c7418392c67652002ed4e42e697b8dcfd6787eab05ee0c6e291b1"
 
   url "https://github.com/DaxOrg/public.macos.getdax.app/releases/download/v#{version}/Dax.dmg",
       verified: "github.com/DaxOrg/public.macos.getdax.app/"
